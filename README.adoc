@@ -2,8 +2,7 @@
 :vscode_java_pack: https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java
 :vscode_java_ext_pack: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 :vscode_spring_ext_pack: https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
-:gs-consuming-rest: link:/guides/gs/consuming-rest
-:images: images/
+:images: https://raw.githubusercontent.com/spring-guides/gs-guides-with-vscode/main/images
 :toc:
 :icons: font
 :source-highlighter: prettify
